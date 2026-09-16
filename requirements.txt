@@ -1,3 +1,4 @@
-mcp==26.2.1
-openai-agents==26.2.1
-openai==26.2.1
+mcp==2.2.0
+openai-agents==0.22.0
+openai==3.8.0
+python-dotenv==1.1.0
