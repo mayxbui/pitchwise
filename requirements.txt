@@ -1,0 +1,3 @@
+mcp==26.2.1
+openai-agents==26.2.1
+openai==26.2.1
